@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organigrama"
+    id="id-432f180558964a8cbeaf7d6b58ebe87c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1b62aeab11664423af0a1bb4b54307c5">
+    <bounds
+        x="215"
+        y="166"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-48bf7d1811b0402299cf0d09ff15553d.xml#id-48bf7d1811b0402299cf0d09ff15553d"/>
+  </children>
+</archimate:ArchimateDiagramModel>
