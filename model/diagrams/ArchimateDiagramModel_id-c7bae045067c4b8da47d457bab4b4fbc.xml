@@ -1,12 +1,39 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Motivadores TO-BE"
+    name="Objetivos y Metas"
     id="id-c7bae045067c4b8da47d457bab4b4fbc">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9481fb81f327443ab7977465982eacfb"
       textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6d99e13b59ee45268faff0ee42ecffba"
+        source="id-9481fb81f327443ab7977465982eacfb"
+        target="id-9fde4c81bc14496baad975bdc8483004">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-6a1d2b0c6e214849b035e149afcd2192.xml#id-6a1d2b0c6e214849b035e149afcd2192"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-63ea747b2714434b82e9444ba216c1ca"
+        source="id-9481fb81f327443ab7977465982eacfb"
+        target="id-2b359b02f60040a0adc9551fa1a246b5">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-d443beed57174b4f874a06109b05bba7.xml#id-d443beed57174b4f874a06109b05bba7"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7867498bccf64003ab53b75ba95a94a4"
+        source="id-9481fb81f327443ab7977465982eacfb"
+        target="id-ddc469560b60453581c4a51dc00f1f1c">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-af03e282b81a41fb883082ac919d7139.xml#id-af03e282b81a41fb883082ac919d7139"/>
+    </sourceConnections>
     <bounds
         x="375"
         y="72"
@@ -19,6 +46,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ddc469560b60453581c4a51dc00f1f1c"
+      targetConnections="id-7867498bccf64003ab53b75ba95a94a4"
       textPosition="1">
     <bounds
         x="120"
@@ -32,6 +60,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2b359b02f60040a0adc9551fa1a246b5"
+      targetConnections="id-63ea747b2714434b82e9444ba216c1ca"
       textPosition="1">
     <bounds
         x="377"
@@ -45,6 +74,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9fde4c81bc14496baad975bdc8483004"
+      targetConnections="id-6d99e13b59ee45268faff0ee42ecffba"
       textPosition="1">
     <bounds
         x="624"
