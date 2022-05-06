@@ -233,38 +233,6 @@
         href="Grouping_id-eb99b414254c409c815fb9314b00716f.xml#id-eb99b414254c409c815fb9314b00716f"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-cbd735d5392649e88a4688182f109767"
-      content="Misión">
-    <bounds
-        x="137"
-        y="153"
-        width="97"
-        height="29"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-4777271ec1394e23a9be0b73b3a2dcbf"
-      content="Visión">
-    <bounds
-        x="136"
-        y="308"
-        width="99"
-        height="27"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-83f5a42d563d4dfbbb3313281e6ddb82"
-      textAlignment="1"
-      content="Objetivos Estratégicos"
-      textPosition="1">
-    <bounds
-        x="132"
-        y="444"
-        width="107"
-        height="49"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1f0575fcdafb432ab4dc55c82d4205ff"
       targetConnections="id-0d4608fda47e49f298af89b49ae4036c"
