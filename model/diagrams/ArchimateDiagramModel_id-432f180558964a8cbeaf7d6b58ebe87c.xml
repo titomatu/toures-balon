@@ -265,7 +265,7 @@
       id="id-d3692a5ee4fb4fbfa1bd9dc232f7d1a7"
       targetConnections="id-9de635d32edd4996b9b707b42119f1d3">
     <bounds
-        x="456"
+        x="463"
         y="384"
         width="120"
         height="55"/>
@@ -278,7 +278,7 @@
       id="id-13ab6a6d872c425dac7361eb0dbf0cc4"
       targetConnections="id-41881accbe9f4e41b1bf587c7021ce6c">
     <bounds
-        x="456"
+        x="463"
         y="300"
         width="120"
         height="55"/>
@@ -291,7 +291,7 @@
       id="id-3453cbf5ce2544929f7142059ed7faed"
       targetConnections="id-1c3f1ce24dba458bb1e557b739a6bb46">
     <bounds
-        x="456"
+        x="463"
         y="216"
         width="120"
         height="55"/>
@@ -358,7 +358,7 @@
     <bounds
         x="456"
         y="120"
-        width="120"
+        width="133"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
