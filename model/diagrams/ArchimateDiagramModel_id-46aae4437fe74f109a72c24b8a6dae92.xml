@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vista Global AS-IS"
+    name="Vista de Usos (App v Procesos) AS-IS"
     id="id-46aae4437fe74f109a72c24b8a6dae92">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
