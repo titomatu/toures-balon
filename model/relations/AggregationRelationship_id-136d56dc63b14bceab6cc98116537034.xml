@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="USUARIO_FK1"
+    id="id-136d56dc63b14bceab6cc98116537034">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-2eb0e652a82f46a880cc99494c15d9bf.xml#id-2eb0e652a82f46a880cc99494c15d9bf"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-8e20428bde854625aefb63a122cf22c5.xml#id-8e20428bde854625aefb63a122cf22c5"/>
+</archimate:AggregationRelationship>

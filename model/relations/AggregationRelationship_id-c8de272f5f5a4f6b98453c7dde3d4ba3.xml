@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ORDERS_CUSTOMER_FK1"
+    id="id-c8de272f5f5a4f6b98453c7dde3d4ba3">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-dd59ccc059884fd2b60c1c1660cbd23a.xml#id-dd59ccc059884fd2b60c1c1660cbd23a"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ba77d4945b2d4dc0b370d8c6d7036a19.xml#id-ba77d4945b2d4dc0b370d8c6d7036a19"/>
+</archimate:AggregationRelationship>
