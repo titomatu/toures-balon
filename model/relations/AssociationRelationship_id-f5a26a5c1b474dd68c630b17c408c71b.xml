@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiza una"
+    id="id-f5a26a5c1b474dd68c630b17c408c71b">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c46f9237583a4a268c03df28565ac3f1.xml#id-c46f9237583a4a268c03df28565ac3f1"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-b458e6f4757c46cdaf4b605f26057923.xml#id-b458e6f4757c46cdaf4b605f26057923"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tiene"
+    id="id-d47c1c2f3e3c4c419bd544853410e0f9">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-55f8cc715e3a4c25919ad7495433c8bc.xml#id-55f8cc715e3a4c25919ad7495433c8bc"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c4a79b44a1fd452c9e7e7896c335b707.xml#id-c4a79b44a1fd452c9e7e7896c335b707"/>
+</archimate:AssociationRelationship>
